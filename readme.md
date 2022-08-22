@@ -7,3 +7,6 @@ team members are:
 1. Reina
 2. Osama
 3. Mohammad
+
+
+we successfdully solved the assignment!
