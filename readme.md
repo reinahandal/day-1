@@ -1,12 +1,12 @@
 this is a basic webpage
 
-This is welcomeing tpo GitHUB
+This is welcoming to GitHUB
 
-we are great team ,.....
+we are a great team .....
 team members are: 
 1. Reina
 2. Osama
 3. Mohammad
 
 
-we successfdully solved the assignment!
+we successfully solved the assignment!
